@@ -1,6 +1,6 @@
 # RDA5807M-FM-Radio-Module-Breakout-PCB
 
-This is a simple breakout board for a RDA5807 Radio Module available for less than $1.
+This is a simple breakout board for a RDA5807 Radio Module available for less than $1. This PCB was designed in Eagle. The PCB can be purchased through [oshpark](https://oshpark.com/shared_projects/gvh1B0PT).
 
 ![top view](https://github.com/hydronics2/RDA5807M-FM-Radio-Module-Breakout-PCB/blob/master/top_view.png)
 
